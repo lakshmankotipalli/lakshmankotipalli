@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahad3v&label=Profile%20views&color=0e75b6&style=flat" alt="mahad3v" /> </p>
 
 - 💼 Front End Engineer @ Cotelligent India
-- :computer: I love creating stuff for Front End and creating reusable UI Libraries :abacus:
+- :computer: I love creating stuff for Front End and creating reusable UI Libraries :wrench:
 - :full_moon: Btw, i am a Selenophile :crescent_moon:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahad3v" alt="mahad3v" /></a> </p> -->
