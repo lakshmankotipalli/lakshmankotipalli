@@ -5,20 +5,20 @@
 
 - 💼 Front End Engineer @ Cotelligent India
 - :computer: I love creating stuff for Front End and creating reusable UI Libraries :wrench:
-- :full_moon: Btw, i am a Selenophile :crescent_moon:
+- :full_moon: A Selenophile :crescent_moon:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahad3v" alt="mahad3v" /></a> </p> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=lakshmankotipalli&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/mrkotipalli" target="blank"><img src="https://img.shields.io/twitter/follow/mrkotipalli?logo=twitter&style=for-the-badge" alt="mrkotipalli" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakshmankotipalli](https://github.com/lakshmankotipalli)
 
 - 📝 I regularly write articles on [https://lakshmankotipalli.wordpress.com/](https://lakshmankotipalli.wordpress.com/)
 
-- 💬 Ask me about **HTML, CSS, JS, Angular, React(new to React)**
+- 💬 Ask me about **HTML, CSS, JS, Angular**
 
 - 📫 How to reach me **lakshman.office@gmail.com**
 
