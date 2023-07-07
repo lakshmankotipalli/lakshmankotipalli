@@ -20,9 +20,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, Angular**
 
-- 📫 How to reach me **lakshman.office@gmail.com**
-
-- ⚡ Fun fact **I am seriously not funny ;)**
+- 📫 You can reach me on **lakshman.office@gmail.com**
 
 - 💬 Connect with me :point_down:
 <p align="left">
