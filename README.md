@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahad3v&label=Profile%20views&color=0e75b6&style=flat" alt="mahad3v" /> </p>
 
 - 💼 Front End Engineer @ Cotelligent India
-- Checkout my portfolio - [[Portfolio][https://mr-kotipalli.vercel.app/](https://mr-kotipalli.vercel.app/)]
+- Checkout my portfolio - [https://mr-kotipalli.vercel.app/](https://mr-kotipalli.vercel.app/)
 - :computer: I love creating stuff for Web and creating reusable UI Libraries :wrench:
 - :full_moon: A Selenophile :crescent_moon:
 
