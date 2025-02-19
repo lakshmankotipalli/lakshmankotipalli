@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrkotipalli" target="blank"><img src="https://img.shields.io/twitter/follow/mrkotipalli?logo=twitter&style=for-the-badge" alt="mrkotipalli" /></a> </p>
 
-- 🌱 I’m currently learning **React** and **Node**
+- 🌱 I’m currently understanding Generative AI and its applications 
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakshmankotipalli](https://github.com/lakshmankotipalli)
 
