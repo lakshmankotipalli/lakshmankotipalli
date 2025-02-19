@@ -9,7 +9,7 @@
 - :full_moon: A Selenophile :crescent_moon:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahad3v" alt="mahad3v" /></a> </p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=lakshmankotipalli&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lakshmankotipalli&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <p align="left"> <a href="https://twitter.com/mrkotipalli" target="blank"><img src="https://img.shields.io/twitter/follow/mrkotipalli?logo=twitter&style=for-the-badge" alt="mrkotipalli" /></a> </p>
 
