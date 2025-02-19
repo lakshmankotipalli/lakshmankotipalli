@@ -26,7 +26,7 @@
 - 💬 Connect with me :point_down:
 <p align="left">
 <a href="https://twitter.com/mrkotipalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrkotipalli" height="30" width="40" /></a>
-<a href="https://instagram.com/avgdemigod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avgdemigod" height="30" width="40" /></a>
+<a href="https://instagram.com/themicroc0sm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avgdemigod" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mission vivekananda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mission vivekananda" height="30" width="40" /></a>
 </p>
 
